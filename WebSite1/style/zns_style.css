@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document //Download by http://www.codefans.net*/
+
+* { padding: 0; margin: 0; }
+li { list-style: none; }
+body { }
+.aspNetHidden {       display:none; }
+
+div {
+	width: 1003px;
+	height: 250px;
+	border:0px solid #ccc;
+	margin: 0px auto 0;
+	overflow:hidden;
+}
+ul { width: 3300px; height: 250px;}
+ul li {
+	width: 31px;
+	height: 250px;
+	float: left;
+	position: relative;
+	overflow:visible;
+	
+}
+.active { width: 849px; }
+
+#pb {
+	width:817px;
+	height:250px;
+	border:opx;
+	
+	background-image: url(../images/01.gif);
+	
+}
+#pb img{width:817px;height:250px;border:0px;}
+.jl{width:849px;border:none;}
+.jl background-image{width:817px;height:250px;}
+.float{float:left}
+.float1{float:right;}
+#xs{width:400px;height:21px;border:0px;float:right;font-size:14px ;font-weight:bold ;color:#FFF;}
+.xs{width:306px;height:250px;float:right;background-color:#3d7fbb;padding-right:60px;}
+.x{width:306px;height:23px;background-color:#3d7fbb;float:right;border:1px ;border-color:#000;text-align:center;padding-top:4px;font-family: "Microsoft YaHei" ! important;font-size:14px;}
+.x a{color:#FFF;}
+         .x a:active{text-decoration: none;color:#FFF;}
+		 .x a:houver{text-decoration: none;color:#FFF;background:#F63}
+		 .x a:link{text-decoration: none;color:#FFF;}
+		 .x a:visited{text-decoration: none;color:#FFF;}
+.y{width:306px;height:35px;margin-top:0px;background-color:#3d7fbb;float:right;border:1px ;border-color:#000;text-align:center;}
+.y a{color:#FFF;}
+       .y  a:link {color:#FFF;text-decoration: none;}
+	   .y  a:visited {text-decoration: none;}
+	   .y  a:hover {color:#FFF;}
+	   .y  a:active {text-decoration: none;color:#FFF}
+	   
+.z{padding-top:9px;width:306px;float:right;font-size:12px;color:#FFF;background:#999;font-family: "Microsoft YaHei" ! important;}
+#xs0{margin-top:0px;margin-left:7px;font-family: "Microsoft YaHei" ! important;color:White ;background-color:#C0C0C0}
+
+#xs a{color:#FFF}
+        #xs a:link {color:#FFF;text-decoration: none;}
+        #xs a:visited {text-decoration: none;}
+        #xs a:hover {color:#FFF;}
+        #xs a:active {text-decoration: none;color:#FFF}
+.clear{clear:both}
+.nb{margin-top:95px;width:31px;height:43px; border-style:none; font-weight:bold;}
+.nb1{margin-top:70px;width:31px;height:110px;border:0px;font-weight:bold;font-family: "AdobeHeitiStd-Regular" !important;}
+ul span { width: 31px; height: 240px; padding-top: 10px; border:1px solid #fff; position: absolute; top: 0; right: 0; color: #fff; font-size:18px; text-align: center; cursor: pointer; }
+ul img { width: 540px; height: 250px; border:0px;margin:0px;border-style:none }
+
+.bg0 { background:#148fe9;border:5px;}
+.bg1 { background:#148fe9; }
+.bg2 { background: #148fe9; }
+.bg3 { background:#148fe9; }
+.bg4 { background: #148fe9; }
+.bg5 { background: #148fe9; }
